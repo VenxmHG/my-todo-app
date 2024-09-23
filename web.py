@@ -1,3 +1,4 @@
+#pip freeze > requirements.txt to print requirements to a txt file
 import streamlit as st
 import functions
 
